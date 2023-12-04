@@ -1,0 +1,43 @@
+body{
+ 
+  overflow-x: hidden;
+  background-repeat: no-repeat;
+}
+.birta{
+  transition: 1s;
+  align-items: center;
+  margin-top: 20%;
+  margin-left: 45%;
+}
+.ikkta{
+  transition: 1s;
+  border: solid 5px black;
+}
+.BTNNN{
+  margin-bottom: 40%;
+  margin-left: 15px;
+  width: 90px;
+  height: 35px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(0, 58, 247);
+  border: none;
+}
+input{
+  margin-top: 5%;
+  width: 300px;
+  border-radius: 5px;
+  border: solid 2px blue;
+}
+.btt{
+  margin-bottom: 40%;
+  width:  90px;
+  height: 35px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(0, 58, 247);
+  border: none;
+  align-items: center;
+  justify-content: center;
+  margin-left: 80%;   
+}
